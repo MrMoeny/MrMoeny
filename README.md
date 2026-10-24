@@ -12,8 +12,7 @@ Right now I work with investors on off-market deals. Long term I want to buy, im
 
 - Multifamily and retail real estate
 - Deal underwriting and financial modeling
-- Building small tools with AI to save time on the boring stuff
-- Fantasy football, golf, and getting out to camp around New Mexico
+- Ice hockey, soccer, golf, and traveling
 
 ## Background
 
